@@ -1,0 +1,1 @@
+{"name":"emko-awards-portal","private":true,"scripts":{"build":"node scripts/build.mjs"}}
